@@ -33,8 +33,6 @@ NetIP is a simple and easy-to-use subnet calculator for both IPv4 and IPv6 addre
 ![IPv4 Calculator](screenshots/ipv4_calculator.png)
 ![IPv6 Calculator](screenshots/ipv6_calculator.png)
 
-*(Note: You will need to add your own screenshots to the `screenshots` directory)*
-
 ## How to Use
 
 1.  **Launch the application.**
