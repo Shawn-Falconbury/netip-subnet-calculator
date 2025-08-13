@@ -47,7 +47,7 @@ To build the project from source, you will need to have the Java Development Kit
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/NetIP-Subnet-Calculator.git
+    git clone https://github.com/Shawn-Falconbury/NetIP-Subnet-Calculator.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
