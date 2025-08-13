@@ -1,6 +1,6 @@
 /**
- * Wesley Shawn Falconbury
- * CSIS505 B01 - March 3, 2024,
+ * Shawn Falconbury,
+ * March 3, 2024,
  * NetIP.java - This program is a subnet calculator that allows the user to input an IPv4 or IPv6 address and subnet mask or prefix length to calculate various network information such as network address, broadcast address, IP class, and more.
  * -
  * Additional Sources that were used to assist in the development of this code:
