@@ -1,5 +1,5 @@
 /**
- * Shawn Falconbury, L32440368
+ * Shawn Falconbury
  * March 3, 2024,
  * IPValidator.java - This class provides methods to validate IPv4 and IPv6 addresses and subnet mask values.
  * -

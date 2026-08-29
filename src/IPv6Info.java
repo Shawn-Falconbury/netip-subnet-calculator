@@ -1,5 +1,5 @@
 /**
- * Shawn Falconbury, L32440368
+ * Shawn Falconbury
  * March 3, 2024,
  * IPv6Info.java - This class extends the IPCalculator class and provides methods to calculate various network information for IPv6 addresses.
  * -
